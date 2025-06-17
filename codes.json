@@ -10,5 +10,11 @@
     "Amount": 10,
     "ExpiresAt": null,
     "MaxUses": null
+  },
+    "testcpde3": {
+    "CodeType": "Wins",
+    "Amount": 100,
+    "ExpiresAt": null,
+    "MaxUses": null
   }
 }
