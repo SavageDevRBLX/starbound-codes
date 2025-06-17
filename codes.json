@@ -1,0 +1,14 @@
+{
+  "TestCode1": {
+    "CodeType": "Stars",
+    "Amount": 5,
+    "ExpiresAt": null,
+    "MaxUses": 100
+  },
+  "updatebonus": {
+    "CodeType": "Wins",
+    "Amount": 10,
+    "ExpiresAt": null,
+    "MaxUses": null
+  }
+}
