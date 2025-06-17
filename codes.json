@@ -10,5 +10,11 @@
     "Amount": 10,
     "ExpiresAt": null,
     "MaxUses": null
-  }
+  },
+    "testcode3": {
+    "CodeType": "Wins",
+    "Amount": 50,
+    "ExpiresAt": null,
+    "MaxUses": null
+    }
 }
