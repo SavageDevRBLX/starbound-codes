@@ -1,11 +1,11 @@
 {
-  "TestCode1": {
+  "testcode1": {
     "CodeType": "Stars",
     "Amount": 5,
     "ExpiresAt": null,
     "MaxUses": 100
   },
-  "updatebonus": {
+  "testcode2": {
     "CodeType": "Wins",
     "Amount": 10,
     "ExpiresAt": null,
